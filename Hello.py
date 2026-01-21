@@ -7,4 +7,4 @@ y = 1
 
 answer = x + y
 
-print("El resultado es: " + answer)
+print("/nEl resultado es: " + answer)
