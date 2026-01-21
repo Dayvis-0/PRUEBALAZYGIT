@@ -8,3 +8,4 @@ y = 1
 answer = x + y
 
 print("/nEl resultado es: " + answer)
+print("x = " + x)
